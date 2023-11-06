@@ -199,6 +199,11 @@
     margin-top: 25px;
 }
 
+#spark-icon {
+    height: 45px;
+    width: 45px;
+}
+
 .skills-box {
     flex: 1 1 33%;
     max-width: 33%;
